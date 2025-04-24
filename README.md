@@ -3,7 +3,7 @@ Building a modern data warehouse from scratch with SQL Server, including ETL pro
 This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generate actionable insights. Designed as a portfolio project, this highlights the industry's best practices in data engineering and analytics.
 
 ---
-##📖 Project Overview
+## 📖 Project Overview
 This project involves:
 
 Data Architecture: Designing a Modern Data Warehouse Using Medallion Architecture Bronze, Silver, and Gold layers.
